@@ -6,7 +6,7 @@
 
 **SashaAnshukov/SashaAnshukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img alt="Night Coding" src="https://thumbs.gfycat.com/SlightDelectableArgentineruddyduck.webp" align="right"/>
+<img alt="Night Coding" src="https://thumbs.gfycat.com/SlightDelectableArgentineruddyduck.webp" align="right" width=300px height=200px/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -22,12 +22,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 В настоящее время я работаю над своим поведением
+- 🌱 В настоящее время я учусь 
+- 👯 Я хочу найти ра
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Напишите мне если хотите предложить волонтерство, стажировку или просто хотите поболтать о чём-нибудь
+<a href="t.me/Anshukowski"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="mailto:sx3a@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
