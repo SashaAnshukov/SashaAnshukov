@@ -17,6 +17,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![GNU%20Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=GNU%20Bash&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 Here are some ideas to get you started:
 
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat&logo=vue.js)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
 - 👯 Я стремлюсь найти работу в дружном коллективе
-- 💬 Напишите мне, если хотите предложить работу, волонтерство, стажировку или просто хотите поболтать о чём-нибудь
+- 💬 Напишите мне, если хотите предложить работу, волонтерство, стажировку или просто поболтать о чём-нибудь
 <a href="https://t.me/Anshukowski"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"/></a>
 <a href="mailto:sx3a@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?&logo=protonmail&logoColor=white"/></a>
 - ⚡ Fun fact: Antonio Banderas
