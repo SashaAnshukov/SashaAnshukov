@@ -1,5 +1,5 @@
 <!--![Sasha](https://sun9-17.userapi.com/c639526/v639526285/23b8a/_VNDZBII80M.jpg)-->
-<img alt="PixelTuchka" src="https://sun9-17.userapi.com/c639526/v639526285/23b8a/_VNDZBII80M.jpg" width=1590px height=190px/>
+<img alt="PixelTuchka" src="https://sun9-17.userapi.com/c639526/v639526285/23b8a/_VNDZBII80M.jpg" width=1590px height=180px/>
 <h1 align=center>Привет, Hi there, hola, hallo 👋</h1>
 
 ### 🛠 &nbsp; Мой стэк 
@@ -20,16 +20,16 @@
 ![GNU%20Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=GNU%20Bash&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
-Here are some ideas to get you started:
+### ✨🤙 Информация и контакты
 
-- 🔭 В настоящее время я работаю над своим поведением
-- 🌱 В ближайших планах изучить
+* 🔭 В настоящее время я работаю над своим поведением
+* 🌱 В ближайших планах изучить
 ![SASS](https://img.shields.io/badge/-SASS-white?style=flat&logo=sass)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat&logo=vue.js)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
-- 👯 Я стремлюсь найти работу в дружном коллективе
-- 💬 Напишите мне, если хотите предложить работу, волонтерство, стажировку или просто поболтать о чём-нибудь
+* 👯 Я стремлюсь найти работу в дружном коллективе
+* 💬 Напишите мне, если хотите предложить работу, волонтерство, стажировку или просто поболтать о чём-нибудь
 <a href="https://t.me/Anshukowski"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"/></a>
 <a href="mailto:sx3a@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?&logo=protonmail&logoColor=white"/></a>
-- ⚡ Fun fact: Antonio Banderas
-<img alt="Night Coding" src="https://thumbs.gfycat.com/SlightDelectableArgentineruddyduck.webp" align="right" width=150px height=75px/>
+* ⚡ Fun fact: the reaction of any Antonio Banderas gracefully fixed the bug
+<img alt="Night Coding" src="https://thumbs.gfycat.com/SlightDelectableArgentineruddyduck.webp" align="left" width=400px height=200px/>
