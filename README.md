@@ -1,5 +1,5 @@
 <!--![Sasha](https://sun9-17.userapi.com/c639526/v639526285/23b8a/_VNDZBII80M.jpg)-->
-<img alt="PixelTuchka" src="https://sun9-17.userapi.com/c639526/v639526285/23b8a/_VNDZBII80M.jpg" width=1590px height=200px/>
+<img alt="PixelTuchka" src="https://sun9-17.userapi.com/c639526/v639526285/23b8a/_VNDZBII80M.jpg" width=1590px height=190px/>
 <h1 align=center>Привет, Hi there, hola, hallo 👋</h1>
 
 ### 🛠 &nbsp; Мой стэк 
@@ -8,6 +8,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React-router](https://img.shields.io/badge/-React_Router-05122A?style=flat&logo=react-router)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js&logoColor=1572B6)&nbsp;
