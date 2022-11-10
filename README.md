@@ -22,9 +22,9 @@
 
 ### 🤙 Информация и контакты
 
-* 🔭 В настоящее время я работаю над своим pet проектом toDO list, который, по окончанию, плаирую перевести с CSS на SCSS.
+* 🔭 В настоящее время я работаю над своим pet проектом toDo list.
 * 🌱 В ближайших планах изучить
-![SCSS](https://img.shields.io/badge/-SCSS-white?style=flat&logo=scss)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-white?style=flat&logo=sass)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat&logo=vue.js)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
 * 👯 Я стремлюсь найти работу в дружном коллективе
