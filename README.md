@@ -30,6 +30,5 @@
 * 👯 Я стремлюсь найти работу в дружном коллективе 
 * 💬 Напишите мне, если хотите предложить работу, волонтерство, стажировку или просто поболтать о чём-нибудь
  <a href="https://t.me/SAnshukov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"/></a>
-<a href="mailto:sx3a@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?&logo=protonmail&logoColor=white"/></a>
 * ⚡ Fun fact: the reaction of any Antonio Banderas who found a bug in the project
 <img alt="Night Coding" src="https://thumbs.gfycat.com/SlightDelectableArgentineruddyduck.webp" align="left" width=400px height=200px/>
