@@ -6,6 +6,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-white?style=flat&logo=sass)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React-router](https://img.shields.io/badge/-React_Router-05122A?style=flat&logo=react-router)&nbsp;
@@ -24,7 +25,6 @@
 
 * 🔭 В настоящее время я работаю над своим pet проектом toDo list.
 * 🌱 В ближайших планах изучить
-![SASS](https://img.shields.io/badge/-SASS-white?style=flat&logo=sass)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat&logo=vue.js)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
 * 👯 Я стремлюсь найти работу в дружном коллективе 
