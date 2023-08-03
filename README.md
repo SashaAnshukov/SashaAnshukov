@@ -1,6 +1,6 @@
 <!--![Sasha](https://sun9-17.userapi.com/c639526/v639526285/23b8a/_VNDZBII80M.jpg)-->
 <img alt="PixelTuchka" src="https://sun9-17.userapi.com/c639526/v639526285/23b8a/_VNDZBII80M.jpg" width=1590px height=180px/>
-<h1 align=center>Привет, hi there, hola, hallo 🤙</h1>
+<h1 align=center>Привет, hi there, hola, bonjour  🤙</h1>
 
 ### 🛠 &nbsp; Мой стэк 
 
