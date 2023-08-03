@@ -23,7 +23,7 @@
 
 ### 🤙 Информация и контакты
 
-* 🔭 В настоящее время прохожу стажировку в itbranchhouse.
+* 🔭 В настоящее время прохожу стажировку в itbranchhouse
 * 🌱 В ближайших планах изучить
 ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat&logo=vue.js)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
