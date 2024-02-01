@@ -7,6 +7,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React-router](https://img.shields.io/badge/-React_Router-05122A?style=flat&logo=react-router)&nbsp;
@@ -23,12 +24,5 @@
 
 ### 🤙 Информация и контакты
 
-* 🔭 В настоящее время прохожу стажировку в Softocean
-* 🌱 В ближайших планах изучить
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat&logo=vue.js)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
-* 👯 Я стремлюсь найти работу в дружном коллективе 
 * 💬 Напишите мне, если хотите предложить работу, волонтерство, стажировку или просто поболтать о чём-нибудь
  <a href="https://t.me/SAnshukov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"/></a>
-* ⚡ Fun fact: the reaction of any Antonio Banderas who found a bug in the project
-<img alt="Night Coding" src="https://thumbs.gfycat.com/SlightDelectableArgentineruddyduck.webp" align="left" width=400px height=200px/>
