@@ -25,4 +25,4 @@
 ### 🤙 Информация и контакты
 
 * 💬 Напишите мне, если хотите предложить работу, волонтерство, стажировку или просто поболтать о чём-нибудь
- <a href="https://t.me/SAnshukov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"/></a>
+ <a href="https://t.me/minty_owl"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"/></a>
